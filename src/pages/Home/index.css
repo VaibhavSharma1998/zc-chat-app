@@ -1,0 +1,17 @@
+
+.main-div{
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.main-img{
+    width: 700px;
+    height: 500px;
+}
+
+
+
+.join-btn{
+   padding: 10px 50px !important;
+}
